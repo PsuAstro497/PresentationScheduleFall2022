@@ -3,8 +3,9 @@
 - Monday, Dec 5:  (max 3 presentations)
   - Chaturvedi & Tartaglia
   - Chew
-  - Collins & Cristello
+  - Collins 
 - Wednesday, Dec 7:  (max 3 presentations)
+  - Cristello
   - Ma
   - Reichard & Bevidas
 - Friday, Dec 9:  (max 2 presentations)
