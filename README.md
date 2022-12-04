@@ -1,13 +1,13 @@
 # Schedule for Class Project Presentations, Fall 2022
 
 - Monday, Dec 5:  (max 3 presentations)
-  - Chaturvedi & Tartaglia
   - Chew
   - Collins 
+  - Reichard & Bevidas
 - Wednesday, Dec 7:  (max 3 presentations)
+  - Chaturvedi & Tartaglia
   - Cristello
   - Ma
-  - Reichard & Bevidas
 - Friday, Dec 9:  (max 2 presentations)
   - Xiao & Zuo
   - You
