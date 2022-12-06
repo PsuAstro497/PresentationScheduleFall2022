@@ -7,10 +7,11 @@
 - Wednesday, Dec 7:  (max 3 presentations)
   - Chaturvedi & Tartaglia
   - Cristello
-  - Ma
+  - You
 - Friday, Dec 9:  (max 2 presentations)
   - Xiao & Zuo
-  - You
+  - Ma
+
 
 ## If you need to reschedule your presentation:
 - If there the change would not cause any day to exceed the indicated number of presentations, then submit a pull request with the requested change.
